@@ -30,10 +30,11 @@ img {
 
 p {
     max-width: 410px;
+    margin-bottom: 15px;
 }
 
 ol {
-    list-style: inside;
+    margin: 15px 120px;
 }
 
 ul li {
