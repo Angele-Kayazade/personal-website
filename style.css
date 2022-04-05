@@ -1,3 +1,5 @@
+/* General styling that applies to the page as a whole 
+and individual elements and containers */
 * {
     box-sizing: border-box;
     margin: auto;
@@ -30,6 +32,9 @@ p {
     max-width: 410px;
 }
 
+ol {
+    list-style: inside;
+}
 
 li {
     height: 30px;
@@ -70,6 +75,8 @@ nav {
 nav a {
     padding: 15px;
 }
+
+/* Pseudo-classes styling */
 
 a:link {
     background-color: #F7AEF8;
